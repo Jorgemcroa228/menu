@@ -1,1 +1,1 @@
-console.log("Este es mi primer repositorio");
+let menu = prompt("Elige \n 1 : para realizar una suma. \n 2 : para hacer una multiplicacion.");
